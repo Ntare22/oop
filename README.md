@@ -19,8 +19,6 @@
 - GitHub: [@Jim Ntare](https://github.com/Ntare22)
 - Twitter: [@Ntare22](https://twitter.com/JimNtare)
 
-👤 **Luis Jimenez**
-- GitHub: [@js1978](https://github.com/lu-jim)
 
 ## 🤝 Contributing
 
